@@ -48,7 +48,14 @@
     style="padding-right: 30px;" 
     src="https://cdn.worldvectorlogo.com/logos/metabase.svg" 
 />
-
+<img 
+    align="left" 
+    alt="GCP" 
+    title="GCP"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://commons.wikimedia.org/wiki/File:Google_Cloud_logo.svg#/media/File:Google_Cloud_logo.svg" 
+/>
 
 
 <br/>
