@@ -42,7 +42,7 @@
 
 </p>
 
-
+---
 
 **`Especialista em Pricing, Analytics e Inteligência de Mercado`**
 
