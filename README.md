@@ -18,6 +18,14 @@
 />
 <img 
     align="left" 
+    alt="Powerbi" 
+    title="Powerbi"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+/>
+<img 
+    align="left" 
     alt="Microsoftsqlserver" 
     title="Microsoftsqlserver"
     width="50px" 
