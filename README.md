@@ -54,7 +54,7 @@
     title="GCP"
     width="50px" 
     style="padding-right: 50px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" 
+    src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" 
 />
 
 
