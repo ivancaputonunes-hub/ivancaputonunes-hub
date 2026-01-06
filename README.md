@@ -2,10 +2,6 @@
 
 **`Especialista em Pricing, Analytics e Inteligência de Mercado`**
 
-# 👨🏼‍💻 Ivan Caputo
-
-**Especialista em Pricing, Analytics, Inteligência de Mercado e Aplicações de IA em Negócios**
-
 Atuo na interseção entre **dados, estratégia comercial e tecnologia**, desenvolvendo soluções analíticas e **aplicações de IA** para **precificação, competitividade, vendas e otimização de margem** em ambientes de varejo e mercados altamente competitivos.
 
 Minha experiência combina **visão de negócio**, **modelagem analítica avançada** e **uso prático de inteligência artificial** para apoiar decisões estratégicas com impacto financeiro mensurável.
