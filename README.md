@@ -10,11 +10,11 @@
 
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="Excel" 
+    title="Excel"
     width="50px" 
     style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+    src="http://www.w3.org/2000/svg" 
 />
 <img 
     align="left" 
@@ -26,28 +26,13 @@
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="50px" 
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Numpy" 
-    title="Numpy"
-    width="50px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-/>
+
 
 <br/>
 <br/>
