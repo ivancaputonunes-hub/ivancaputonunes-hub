@@ -56,7 +56,14 @@
     style="padding-right: 50px;" 
     src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Salesforce" 
+    title="Salesforce"
+    width="50px" 
+    style="padding-right: 50px;" 
+    src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" 
+/>
 
 <br/>
 <br/>
