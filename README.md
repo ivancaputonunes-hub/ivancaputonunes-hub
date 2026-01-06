@@ -26,6 +26,14 @@
 />
 <img 
     align="left" 
+    alt="Metabase" 
+    title="Metabase"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.worldvectorlogo.com/logos/metabase.svg" 
+/>
+<img 
+    align="left" 
     alt="Microsoftsqlserver" 
     title="Microsoftsqlserver"
     width="50px" 
