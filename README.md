@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-```text
+
 ### 📊 Estatísticas
 
 <p>
