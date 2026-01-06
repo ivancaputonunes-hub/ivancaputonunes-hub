@@ -14,7 +14,7 @@
     title="Excel"
     width="50px" 
     style="padding-right: 30px;" 
-    src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025–present).svg" 
+    src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg#/media/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg" 
 />
 <img 
     align="left" 
