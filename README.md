@@ -42,6 +42,8 @@
 
 </p>
 
+
+
 **`Especialista em Pricing, Analytics e Inteligência de Mercado`**
 
 Atuo na interseção entre **dados, estratégia comercial e tecnologia**, desenvolvendo soluções analíticas e **aplicações de IA** para **precificação, competitividade, vendas e otimização de margem** em ambientes de varejo e mercados altamente competitivos.
