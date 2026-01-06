@@ -41,8 +41,10 @@
   />
 
 </p>
-
+<br/>
+<br/>
 ---
+
 
 **`Especialista em Pricing, Analytics e Inteligência de Mercado`**
 
