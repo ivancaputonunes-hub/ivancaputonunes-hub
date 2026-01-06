@@ -10,6 +10,22 @@
 
 <img 
     align="left" 
+    alt="Microsoftsqlserver" 
+    title="Microsoftsqlserver"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Excel" 
     title="Excel"
     width="50px" 
@@ -32,22 +48,7 @@
     style="padding-right: 30px;" 
     src="https://cdn.worldvectorlogo.com/logos/metabase.svg" 
 />
-<img 
-    align="left" 
-    alt="Microsoftsqlserver" 
-    title="Microsoftsqlserver"
-    width="50px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 
 <br/>
