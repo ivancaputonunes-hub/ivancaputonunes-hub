@@ -154,7 +154,7 @@ Os projetos públicos neste perfil representam **casos reais de negócio**, estr
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas (WIP)
 
 <p align="center">
   <img
