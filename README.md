@@ -12,8 +12,8 @@
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 <img 
