@@ -52,7 +52,7 @@
     align="left" 
     alt="GCP" 
     title="GCP"
-    width="50px" 
+    width="100px" 
     style="padding-right: 50px;" 
     src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" 
 />
