@@ -74,7 +74,7 @@
 
 Atuo na interseção entre **dados, estratégia comercial e tecnologia**, desenvolvendo soluções analíticas e **aplicações de IA** para **precificação, product ops, competitividade, vendas e otimização de margem** em ambientes de varejo e mercados altamente competitivos.
 
-Minha experiência combina **visão de negócio**, **modelagem analítica avançada** e **uso prático de inteligência artificial** para apoiar decisões estratégicas com impacto financeiro mensurável.
+Minha experiência combina **visão de negócio**, **modelagem analítica avançada** e **uso prático de inteligência artificial** para apoiar decisões estratégicas com impacto operacional e financeiro mensurável.
 
 ---
 
