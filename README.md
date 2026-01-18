@@ -139,8 +139,8 @@ Menos teoria. Mais decisão bem tomada.
 
 Os projetos públicos neste perfil representam **casos reais de negócio**, estruturados de forma técnica, clara e replicável:
 
-- Motor de Precificação Dinâmica para Varejo  
-- Monitor de Competitividade e Price Gap  
+- Monitor de Competitividade e Price Gap 
+- Motor de Precificação Dinâmica para Varejo   
 - Simulador de Estratégia Comercial (Preço × Volume × Margem)  
 
 👉 Acesse: **https://ivancaputonunes-hub.github.io/projects/**
